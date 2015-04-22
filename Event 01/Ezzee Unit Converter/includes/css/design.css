@@ -1,0 +1,194 @@
+@font-face
+{
+font-family: akaash;
+src: url("./font/AkaashNormal.ttf");
+}
+
+
+
+body
+{
+width: 320px;
+height: 480px;
+
+/*width: 1000px;
+height: 500px;*/
+
+margin: 0px;
+padding: 0px;
+
+font-family: Arial, akaash;
+font-size: 16px;
+color: #333333;
+
+background-image: url("../image/bg.jpg");
+background-position: center;
+background-repeat: repeat;
+
+overflow: hidden;
+}
+
+
+div.container
+{
+}
+
+
+
+div.main_menu
+{
+margin-top: 30px;
+text-align: center;
+}
+	div.title
+	{
+	font-size: 24px;
+	font-weight: bold;
+	}
+
+
+	div.lang_menu
+	{
+	margin-top: 10px;
+	}
+		div.lang_menu span
+		{
+		padding: 5px;
+		text-decoration: underline;
+		font-weight: bold;
+		}
+
+		div.lang_menu span:hover
+		{
+		cursor: pointer;
+		}
+
+		div.lang_menu span:active
+		{
+		color: #999999;
+		text-decoration: none;
+		}
+
+
+	div.menu_buttons
+	{
+	margin-top: 60px;
+	}
+		div.menu_buttons div.left
+		{
+		float: left;
+		margin-left: 30px;
+		}
+
+		div.menu_buttons div.right
+		{
+		float: right
+		margin-right: 30px;;
+		}
+			div.menu_buttons span,
+			span.load_main_menu_button
+			{
+			display: inline-block;
+
+			width: 100px;
+			height: 25px;
+
+			margin: 5px;
+			border: 3px outset #333333;
+
+			font-size: 16px;
+			font-weight: bold;
+			}
+
+			div.menu_buttons span:hover,
+			span.load_main_menu_button:hover
+			{
+			cursor: pointer;
+			}
+
+			div.menu_buttons span:active,
+			span.load_main_menu_button:active
+			{
+			border: 3px inset #333333;
+			}
+
+
+
+div.convert
+{
+display: none;
+text-align: center;
+}
+	div.convert span.load_main_menu_button
+	{
+	margin-top: 20px;
+	}
+
+
+	#from_prefix
+	{
+	width: 100px;
+	margin-top: 20px;
+	}
+
+
+	#from_unit
+	{
+	width: 200px;
+	margin-top: 10px;
+	}
+
+
+	#from_input
+	{
+	display: inline-block;
+
+	margin-top: 20px;
+
+	width: 200px;
+	height: 30px;
+
+	font-family: Monaco, akaash;
+	}
+
+
+	button.convert_button
+	{
+	display: inline-block;
+	margin-top: 20px;
+	font-weight: bold;
+	}
+
+
+	#to_output
+	{
+	display: inline-block;
+
+	width: 200px;
+	height: 30px;
+
+	margin-top: 20px;
+
+	border: 1px solid #000000;
+
+	font-family: Monaco, akaash;
+	}
+
+
+	#to_prefix
+	{
+	width: 100px;
+	margin-top: 20px;
+	}
+
+
+	#to_unit
+	{
+	width: 200px;
+	margin-top: 10px;
+	}
+
+
+
+
+

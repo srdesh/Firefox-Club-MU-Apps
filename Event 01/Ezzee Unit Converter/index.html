@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<meta author=CluelessNoob />
+
+		<title></title>
+
+		<link rel=stylesheet href="includes/css/design.css" />
+
+		<script src="includes/js/jquery_file/jquery.min.js"></script>
+		<script src="includes/js/bignumber_file/bignumber.js"></script>
+		<script src="includes/js/lang.js"></script>
+		<script src="includes/js/units.js"></script>
+		<script src="includes/js/js_functions.js"></script>
+	</head>
+
+	<body>
+		<div class=container>
+			<span id=test></span>
+			<div class=main_menu>
+				<div class=title></div>
+
+				<div class=lang_menu>
+					<span onclick=lang_change('en')>English</span>
+					<span onclick=lang_change('bn')>বাংলা</span>
+				</div>
+
+				<div class=menu_buttons>
+					<div class=left>
+					</div>
+
+					<div class=right>
+					</div>
+				</div>
+			</div>
+
+			<div class=convert>
+				<span class=load_main_menu_button onclick="load_main_menu()"></span><br />
+
+				<select id=from_prefix></select><br />
+				<select id=from_unit></select><br />
+
+				<input type=number min=0 max=9999 step=0.0001 id=from_input /><br />
+
+				<button class=convert_button onclick="convert()">V</button><br />
+
+				<span id=to_output></span><br />
+
+				<select id=to_prefix></select><br />
+				<select id=to_unit></select>
+			</div>
+		</div>
+	</body>
+</html>

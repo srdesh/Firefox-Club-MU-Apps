@@ -1,0 +1,32 @@
+{
+	"name": "Ezzee Unit Converter",
+
+	"description": "Ezzee Unit Converter 1.0 (beta). A simple unit converter which supports multiple languages. More languages to come if Lord wills. It is still in beta, so there may be bugs. #AppsDayAtMU, #MozillaAtSylhet, #AppsFromSylhet.",
+
+	"launch_path": "/index.html",
+
+	"icons":
+	{
+		"512": "/includes/image/icon_512.png",
+		"128": "/includes/image/icon_128.png"
+	},
+
+	"developer":
+	{
+		"name": "Minhaz",
+		"url": "http://coderminhaz.com"
+	},
+
+
+	"locales":
+	{
+		"bd":
+		{
+			"name": "সহজ ইউনিট কনভার্টার",
+			"description": "সহজ ইউনিট কনভার্টার"
+		}
+	},
+
+
+	"default_locale": "en"
+}

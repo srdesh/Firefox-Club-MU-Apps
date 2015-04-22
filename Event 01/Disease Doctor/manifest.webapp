@@ -1,0 +1,24 @@
+{
+  "name": "Disease Doctor",
+  "description": "The Disease Doctor app is developed for patients suffering from normal diseases. They can get more information about the symptoms and treatments of some common diseases. #AppsDayatMU,#MozillaatSylhet,#AppsfromSylhet",
+  "launch_path": "/index.html",
+   
+  "icons": {
+    "48": "icons/doctor48x48.png",
+    "60": "icons/doctor60x60.png",
+    "128": "icons/doctor128x128.png"
+  },
+    "developer":{
+      "name":"Hassan And Shirin"
+    },
+  "permissions": {
+    "desktop-notification":{ "description":"Needed for creating system notifications."
+    }
+    
+  }
+      
+      
+    
+   
+ 
+}
