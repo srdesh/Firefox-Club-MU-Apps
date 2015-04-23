@@ -1,0 +1,30 @@
+article, aside, details, figcaption, figure, footer, header,
+hgroup, menu, nav, section { 
+  display: block; 
+}
+body {
+  background-color: peru;
+}
+h1 {
+  text-align: center;
+  color:#333333;
+  font-family:'Arial',sans-serif;
+  font-size:24px;
+}
+p {
+  text-align: center;
+  color:#E3E3E3;
+}
+canvas {
+  display: block;
+  margin: 0 auto;
+  background-color: #666;
+  border:5px solid #000000;
+  border-radius:15px;
+}
+button{
+  color:#333;
+  background-color:#FFB708;
+  padding:10px 30px;
+  
+}

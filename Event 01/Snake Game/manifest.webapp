@@ -1,0 +1,18 @@
+{
+ "name":"Snake Game",
+ "description":"Its a simple Snake Game for children. #AppsDayatMU, #MozillaatSylhet, #AppsfromSylhet",
+ "lunch_path":"/index.html",
+ "icons":{
+    "128":"image/128.png",
+    "512":"image/512.png"
+ },
+ "developer":{
+    "name":"utpol",
+	"url":"http://www.facebook.com/utpol.mitu"
+ },
+ "permissions":{
+   "desktop-notification":{
+    "description":"Nedded for creating system notification."
+   }
+ }
+}
