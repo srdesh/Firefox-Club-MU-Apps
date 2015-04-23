@@ -1,0 +1,62 @@
+* {
+	border: 0;
+	box-sizing: border-box;
+	font: inherit;
+	margin: 0;
+	outline: 0;
+	padding: 0;
+}
+
+html, body {
+	background-image: url('image/background.jpg');
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	margin: 0px;
+	padding:0px;
+	font-family:century gothic;
+}
+
+#wrapper{
+	margin: 0px;
+	padding:0px;
+	width:100%;
+	height:100%;
+}
+
+.app-header {
+	background-color: #3d0070;
+	padding: 10px 15px;
+}
+
+.app-header h1 {
+	color: #fff;
+	font-size: 30px;
+	text-align: center;
+	letter-spacing:2px;
+}
+.app-nav {
+	background-image:url("image/navback.png");
+	text-align: center;
+	margin-bottom: 10px;
+}
+
+.app-nav a {
+  color:#bb81fd;
+  text-decoration: none;
+  font-size: 18px;
+  display: inline-block;
+  padding: 10px 15px;
+  font-weight:bold;
+  
+}
+#wrapper{
+text-align:center;
+}
+#wrapper p {
+  font-weight: bold;
+  margin-bottom: 30px;
+}
