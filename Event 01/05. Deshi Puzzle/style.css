@@ -1,0 +1,59 @@
+body{
+background:white;
+margin:0px;
+padding:0px;
+}
+.clearfix{
+clear:both;
+}
+.container{
+margin:0px;
+float:left;
+background:transparent;
+width:100%;
+text-align:center;
+}
+.container h1{
+padding-top:5px;
+
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+p{
+color:red;
+}
+.work a {
+    display: block;
+	text-decoration:none;
+	color:green;
+	background: #dddddd;
+	text-align:center;
+}
+.work a:hover {
+    display: block;
+    background-color: red;
+	text-decoration:none;
+	color:green;
+	text-align:center;
+}
+	
+
+#Fronts{
+text-align:center;
+}
+.container p{
+text-align:center;
+}
+.container a{
+color:green;
+text-decoration:none;
+
+}
+#try{
+color:black;
+font-size:10px;
+}
