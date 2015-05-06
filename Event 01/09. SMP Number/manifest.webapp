@@ -1,19 +1,24 @@
 {
-"name":"SMP Number",
-"discription":" this app will help you to know Phone Number of Important Police. #AppsDayatMU, #MozillaatSylhet, #AppsfromSylhet",
-"launch_path":"/index.html",
-"icons":{
-"128":"/image/icon-128.png",
-"512":"/image/icon-512.png"
-},
-"developer":{
-"name":"Murad Ahmed",
-"url":"murad.ahmed.77"
+	"name": "SMP Number",
 
-},
-"permissions":{
-"desktop_notification":{
-"discription":"Needed for creating system notifacation."
-}
-}
+	"description": "This app will help you to know Phone Number of Important Police. #AppsDayatMU, #MozillaatSylhet, #AppsfromSylhet",
+		
+	"launch_path": "/index.html",
+			
+	"icons":{
+		"128": "/image/icon-128.png",
+		"256": "/image/icon-512.png"
+	},
+		
+	"developer": {
+		"name": "Murad Ahmed",
+		"url": "https://fb.com/commurad.ahmed.77"
+	},
+		
+	"permission": {
+		"desktop-notification": {
+			"description": "Need for creating system notifications"
+			
+		}
+	}
 }
