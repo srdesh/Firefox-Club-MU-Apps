@@ -1,0 +1,19 @@
+{
+	"name": "Sylhet Tour",
+	"description": "This app is help you to Khow about Sylhet. #AppsDayatMU, #MozillaatSylhet, #AppsfromSylhet",
+	"launch_path": "/index.html",
+	"icons": {
+		"128": "/images/128.png",
+		"512": "/images/512.png"
+	},
+	"developer": {
+		"name": "Salman Hossen",
+		"url": "http://www.facebook.com/mdsalmanhossen/"
+	},
+	"permission": {
+		"desktop-notification": {
+			"description": "Needed for creating system notifications."
+		}
+	}
+
+}
