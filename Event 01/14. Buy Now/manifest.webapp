@@ -1,0 +1,18 @@
+{
+"name": "Buy Now",
+"description": "Online Shopping world, Buy Now gives you more freedom. Buy what you want and smile. #AppsDayatMU, #MozillaatSylhet, #AppsformSylhet",
+"launch_path": "/index.html",
+"icons": {
+	"128": "/img/128.png",
+	"512": "/img/512.png"
+	},
+"developer": {
+	"name": "Humayun kabir",
+	"url": "http://www.humayunkabir.branded.me/"
+	},
+"permissions": {
+	"desktop-notification": {
+		"description": "Needed for creating system notification."
+		}
+	}
+}

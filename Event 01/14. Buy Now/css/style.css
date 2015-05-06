@@ -1,0 +1,98 @@
+body{
+	font-family: "Open Sans"
+}
+
+
+h1{
+	color: white;
+  	text-shadow: 0px 5px 2px gray;
+	padding-top: 20px;
+	font-size: 2.5em;
+	font-weight: 100;
+}
+.wrapper{
+	background-color: rgba(0, 0, 0, .5);
+}
+.wrap{
+	margin-top: 50px;
+	height: 100vh;
+	text-align: center;
+}
+
+
+/*/////////////////////////////
+// Header
+/////////////////////////////*/
+.container>.navbar-header {
+  	background-color: rgb(0, 188, 212);
+ }
+.navbar-default .navbar-toggle .icon-bar {
+  	background-color: #FFF;
+}
+#Header{
+	background: url(../img/bn.png) no-repeat;
+	background-attachment: fixed;
+	background-position: top;
+	background-size: cover;
+	height: 100vh;
+	color: white;
+}
+#Header p{
+	padding: 10px;
+}
+#Header img{
+	width: 100px;
+}
+.started{
+	background-color: #00BCD4;
+	color: white;
+	margin-top: 30px;
+	font-size: 25px;
+	border-radius: 0px;
+}
+/*/////////////////////////////
+//	Categories
+/////////////////////////////*/
+h2{
+	color: black;
+  	
+	text-shadow: 0px 5px 2px white;
+	padding-top: 20px;
+	font-size: 3em;
+	font-weight: bold;
+}
+h3{
+	text-transform: capitalize;
+	font-size: 2em;
+	color: #CDDC39;
+	margin-top: 0px;
+}
+.site-img{
+	width: 95%;
+	display: inline-block;
+	border-radius: 5px;
+	box-shadow: 3px 3px 0px #F0F4C3;
+}
+.subtitle{
+	font-size: 20px;
+	color: rgb(0, 188, 212);
+}
+.site-subtitle{
+	color: #BDEAFF;
+	font-size: 20px;
+	font-weight: 500;
+}
+.wrap a .row{
+	border: 1px solid #CDDC39;
+	margin: 10px 0px;
+	padding: 10px 0px;
+	background-color: rgba(0, 0, 0, .5);
+}
+#woman{
+	background: url(../img/woman-bg.png) no-repeat;
+	background-attachment: fixed;
+	background-position: bottom;
+	background-size: cover;
+	height: 100vh;
+	color: white;
+}
