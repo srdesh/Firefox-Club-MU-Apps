@@ -1,7 +1,7 @@
 {
  "name":"MU Student Information",
  "description":"This app will help you to know the student information of all the department of MU Student. #AppsDayatMU, #MozillaatSylhet, #AppsfromSylhet",
- "lunch_path":"/index.html",
+ "launch_path": "/index.html",
  "icons":{
     "128":"image/128.png",
     "512":"image/512.png"
