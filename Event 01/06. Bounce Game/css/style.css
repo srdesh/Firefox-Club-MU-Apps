@@ -1,0 +1,33 @@
+body {
+	font: 14px "Verdana", sans-serif;
+	background-color: #fff;
+	padding: 10px 10px 0px 10px;
+	margin: 0px;
+	color:#222;
+}
+
+input, select {
+	font: 14px "Verdana", sans-serif;
+	padding: 5px;
+}
+
+h1, h2, h3, h4, p, pre {
+	padding: 0px 0px 10px 0px;
+	margin: 0px 0px 0px 0px;
+	font-weight: normal;
+}
+
+h1, h2, h3, h4 {
+	font-family: "Georgia", serif;
+	font-size: 200%;
+}
+
+a {
+	color: #009;
+	text-decoration:none;
+}
+
+a:hover {
+	color: #999;
+	text-decoration:none;
+}

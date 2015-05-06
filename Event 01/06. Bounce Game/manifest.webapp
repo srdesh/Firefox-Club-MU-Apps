@@ -1,0 +1,19 @@
+{
+  "name": "Bounce Game",
+  "description": "This game will more fun and enjoyable. #AppsDayatMU, #MozillaatSylhet, #AppsfromSylhet",
+  "launch_path": "/index.html",
+  "icons": {
+    "128": "/images/icon-128.png",
+    "512": "/images/icon-512.png"
+  },
+  "developer": {
+    "name": "Sabbir",
+    "url": "https://www.facebook.com/sabbirs993/"
+  },
+ "orientation": "portrait",
+  "permissions": {
+    "desktop-notification": {
+      "description": "Needed for creating system notifications."
+    }
+  }
+}
