@@ -1,0 +1,37 @@
+body{
+	background-image:url("image/bc1.jpg");
+}
+.styled-button-1 {
+	-webkit-box-shadow:rgba(0,0,0,0.2) 0 1px 0 0;
+	-moz-box-shadow:rgba(0,0,0,0.2) 0 1px 0 0;
+	box-shadow:rgba(0,0,0,0.2) 0 1px 0 0;
+	color:#333;
+	background-color:#EFECE8;
+	border-radius:5px;
+	-moz-border-radius:5px;
+	-webkit-border-radius:5px;
+	border:none;
+	font-family:Harrington;
+	font-size:12px;
+	font-weight:700;
+	height:32px;
+	padding:4px 16px;
+	text-shadow:#23C7C7;
+}
+h2{
+	color:#ffffff;
+	font-family:Broadway;
+}
+td{
+	color:#ffffff;
+	font-family:Harrington;
+}
+center{
+	color:#ffffff;
+	font-family:Harrington;
+}
+input{
+	color:#465239;
+	font-family:Harrington;
+}
+

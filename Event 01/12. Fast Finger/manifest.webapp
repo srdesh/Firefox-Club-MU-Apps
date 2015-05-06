@@ -1,0 +1,16 @@
+{
+	"name":"FastFinger",
+	"description":"Touch as many dots as you can within 30 sec #AppsDayatMU, #MozillaatSylhet, #AppsfromSylhet",
+	"launch_path":"/index.html",
+	"icons":{
+	"128":"/image/icon1.png",
+	"512":"/image/icon2.png"
+	},
+	"developer":{"name": "KausarNobin",
+		"url":"fb/kausar.pial"},
+	
+	"permission":{
+		"desktop-notification":{
+			"description":"Needed for creating system notifications."}
+		}
+}
