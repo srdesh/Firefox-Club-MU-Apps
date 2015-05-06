@@ -1,25 +1,18 @@
 {
-	"name": "MU Blood Searcher",
-		
-	"description": "Test app for learning firefox app developing. #AppsDayatMU, #MozillaatSylhet, #AppsfromSylhet",
-		
-		"launch_path": "/index.html",
-			
-	"icons":{
-		"128": "/style_files/128.png",
-		"256": "/style_files/256.png"
-	},
-		
-	"developer": {
-		"name": "Samad",
-		"url": "www.facebook.com/nurus.samad"
-	},
-		
-	"permission": {
-		"desktop-notification": {
-			"description": "Need for creating system notifications"
-			
-		}
-	}
+ "name":"MU Blood Searcher",
+ "description":"This app will help you to know the blood group of students of MU. #AppsDayatMU, #MozillaatSylhet, #AppsfromSylhet",
+ "launch_path": "/index.html",
+  "icons":{
+    "128":"image/128.png",
+    "512":"image/512.png"
+ },
+ "developer":{
+    "name":"Samad",
+	"url":"http://www.facebook.com/nurus.samad"
+ },
+ "permissions":{
+   "desktop-notification":{
+    "description":"Nedded for creating system notification."
+   }
+ }
 }
-	
