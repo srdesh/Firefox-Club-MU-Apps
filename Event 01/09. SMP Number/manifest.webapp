@@ -7,7 +7,7 @@
 			
 	"icons":{
 		"128": "/image/icon-128.png",
-		"256": "/image/icon-512.png"
+		"512": "/image/icon-512.png"
 	},
 		
 	"developer": {
