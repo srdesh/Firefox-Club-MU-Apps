@@ -1,0 +1,39 @@
+body{
+margin:0px;
+background:url('image/smp.jpg');
+background-repeat: no-repeat;
+background-attachment:fixed;
+background-size:100%;
+}
+.clearfix{
+clear:both;
+}
+.container{
+padding-top:30px;
+margin:0px auto;
+text-align:center;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+p{
+color:red;
+text-align:center;
+}
+a {
+    display: block;
+	text-decoration:none;
+	color:black;
+	background: transparent;
+}
+a:hover {
+    display: block;
+    background-color: red;
+	text-decoration:none;
+	color:green;
+	
+}
+
